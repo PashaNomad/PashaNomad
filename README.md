@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PashaNomad
-- 👀 I’m interested in Web Development, Data Science, AI, Machine Learning.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on any Web Development project.
+- 👀 I’m interested in Data Engineering, Data Science, AI, Machine Learning.
 - 📫 How to reach me: e-mail: pavel.aliferchuk@gmail.com.
 
 <!---
